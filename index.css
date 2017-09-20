@@ -1,0 +1,44 @@
+#title{
+    text-align: center;
+
+
+}
+
+#pomodoro-app{
+    background-color: 	#696969;
+    border-radius: 50px;
+}
+p{
+
+    text-align:center;
+}
+#container{
+    text-align:center;
+
+}
+.bodyDiv {
+    display: inline-block;
+
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+#start{
+    width:120px;
+    height:60px;
+}
+
+button{
+    border-radius:25%;
+    margin-right:5px;
+    margin-left:5px;
+    width:60px;
+    height:39px;
+
+}
+span {
+    font-size: 30px;
+
+}
+
+
